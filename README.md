@@ -28,4 +28,6 @@ We're considering using IBM Granite because its a truley open source
 model with training data that is traceable so we can avoid any copyright 
 issues and we are able to know what is going on in a model
 
+http://huggingface.co/ibm
+
 
